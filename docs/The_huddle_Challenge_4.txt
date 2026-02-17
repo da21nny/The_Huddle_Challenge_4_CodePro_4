@@ -1,0 +1,73 @@
+1. Escenario y Desafío
+Después de escapar del laberinto, refactorizar tu alma en clases, y salvar al mundo con sockets, creíste que habías alcanzado la paz…
+Pero no.
+
+Sos ahora el detective de datos peor pagado del hemisferio sur.
+Tu escritorio: un Jupyter Notebook.
+Tu arma: SELECT.
+Tu jefe: un pingüino que solo dijo:  
+
+“Hacelo por el bien de la literatura… y por los memes.”
+
+Tu nueva misión: infiltrarte en el criminalmente desactualizado sitio Books To Scrape y exponer verdades oscuras como:
+
+¿Qué autor sigue publicando catástrofes de 1 estrella?
+¿Quién es el capo de la literatura barata pero bien rankeada?
+¿Y por qué hay tantos libros amarillos?
+Tenés 1 semana. Sin comodines. Sin ayuda. Sin frameworks mágicos.
+Solo Google, BeautifulSoup, y tu resiliencia emocional.
+
+🧠 2. Habilidades que vas a tener que invocar
+(Spoiler: vas a tener que googlear todo esto)
+
+🕷️ Web scraping legal con BeautifulSoup o requests
+🧱 Modelado de bases de datos relacionales
+📊 Diagramas UML (para fingir que tenés un plan)
+📖 Consultas básicas: SELECT, JOIN, WHERE, GROUP BY
+🧙 Consultas complejas: funciones de ventana, subconsultas, magia oscura
+⚡ Indexación: cómo hacer que una consulta lenta llegue a tiempo para la cena
+✅ 3. Requisitos Obligatorios
+🔎 Scrapeá el sitio entero:
+
+Todas las categorías, todos los libros. Sin excepciones.
+Si te salteás un género, te cae la policía de géneros literarios.
+🧱 Base de Datos bien estructurada:
+
+Relación muchos a muchos: Libros ↔ Autores
+DDL (CREATE TABLE) y DML (INSERT INTO) para poblarla
+Diagrama UML con cajitas y flechas. Te bancamos.
+🧪 Consultas con emoción:
+
+Escribí al menos una consulta que sea dolorosamente lenta sin un índice
+Después, agregale el índice y mostrá la diferencia. Sentí el poder fluir.
+Creá un mini reporte con 5 consultas útiles y comentá por qué importan
+Ejemplo:
+“Libros con más de 3 estrellas por menos de £10, para cuando estás en bancarrota pero con estándares.”
+
+🗂️ Todo tiene que estar en un solo archivo:  
+
+Jupyter Notebook. Sí, todo. Nada de .sql sueltos por ahí.
+📦 4. Entregables, Reglas y Bonus XP
+🛠️ Obligatorio:
+
+Diagrama UML
+Esquema SQL (DDL) + datos (DML)
+Código de scraping funcional
+5 consultas emocionales con sus respectivos comentarios
+Muestra de indexación antes y después
+🧃 Bonus XP (Para lxs valientes):
+
+📊 Convertí una consulta en un gráfico: tortas, barras, o trauma visual
+🐍 Usá SQLAlchemy o Pandas para automatizar parte del caos
+💌 Consulta bonus:
+Encontrá al autor más trágico: escribió 10+ libros, todos con menos de 2 estrellas
+Comentario opcional:
+“No todo el mundo debería publicar. Y está bien.”
+
+🧨 ¿Listo para romper la base de datos?
+Recordá esto: el código puede mentir, pero las consultas no.
+Y si llorás… que sea en Jupyter, con estilo.
+
+Buena suerte, leyenda de los datos.
+Nos vemos del otro lado del JOIN. 🕵️📚
+
